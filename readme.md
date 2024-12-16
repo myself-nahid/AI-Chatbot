@@ -13,12 +13,6 @@ This project demonstrates the development of a comprehensive conversational AI a
 - **LLM-Driven Intelligence**: Powered by Groq's Llama3-8b-8192 and HuggingFace embeddings for accurate responses.
 - **Customizable Knowledge Base**: Easy to extend and adapt for new domains or datasets.
 
-## Project Demo
-![Alt text](demo-project/img2.png)
-![Alt text](demo-project/img4.png)
-![Alt text](demo-project/img5.png)
-![Alt text](demo-project/img6.png)
-
 ## Technologies Used
 
 - **Python**: Core programming language.
